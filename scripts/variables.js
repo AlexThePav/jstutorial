@@ -3,18 +3,20 @@
 let message;
 message = "Hello";
 
-let another_message = "Hello world!";
-var yet_another_message = "Hello world!"
+const myBirthDay = '28.09.1989'
+
+let anotherMessage = "Hello world!";
+var yetAnotherMessage = "Hello world!";
 
 alert(message)
 
-let user = 'John', age = 25, johns_message = "Hello";
+let user = 'John', age = 25, johnsMessage = "Hello";
 
 let user2 = "John",
     age2 = 25,
-    johns_message2 = "Oh hi";
+    johnsMessage2 = "Oh hi";
 
 let user3 = "John"
     , age3 = 25
-    , johns_message3 = "Ho hai";
+    , johnsMessage3 = "Ho hai";
 
